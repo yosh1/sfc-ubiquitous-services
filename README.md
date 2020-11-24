@@ -2,6 +2,6 @@
 
 ---
 
-## [Turorial 1](https://gh.yoshi.fun/sfc-ubiquitous-services/tutorial1.html)
+## [Turorial 1](https://gh.yoshi.fun/sfc-ubiquitous-services/tutorial/1)
 
-![](./thumb/image1.png)
+![](./tutorial/1/thumb/image.png)
