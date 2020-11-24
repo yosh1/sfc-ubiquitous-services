@@ -12,4 +12,5 @@
 
 ## [Turorial 3 - Original model](https://gh.yoshi.fun/sfc-ubiquitous-services/tutorial/3/)
 
+![](./tutorial/3/thumb/image.png)
 ![](./tutorial/3/src/santa.gif)
